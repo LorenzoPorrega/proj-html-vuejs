@@ -39,7 +39,6 @@ export default {
       font-weight: 700;
       line-height: 1;
       transition: .5s;
-      font-size: 24px;
       margin-bottom: 5px;
     }
     img{
